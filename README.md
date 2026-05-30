@@ -58,5 +58,5 @@ Book project repository: https://github.com/AICyberProjects/ai-cybersecurity-pro
 ## Contact
 
 Website: https://williamandreas.carrd.co  
-LinkedIn: www.linkedin.com/in/william-andreas-70778040a   
+LinkedIn: www.linkedin.com/in/william-andreas-dev 
 Email: william@williamandreas.ca
