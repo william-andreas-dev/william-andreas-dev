@@ -72,6 +72,8 @@ Core areas include structured workflow systems, business sale readiness tools, k
 
 ## Contact
 
-Website: https://williamandreas.carrd.co
-LinkedIn: https://www.linkedin.com/in/william-andreas-dev
-Email: william@williamandreas.ca
+## Contact
+
+* Website: [williamandreas.carrd.co](https://williamandreas.carrd.co)
+* LinkedIn: [linkedin.com/in/william-andreas-dev](https://www.linkedin.com/in/william-andreas-dev)
+* Email: [william@williamandreas.ca](mailto:william@williamandreas.ca)
