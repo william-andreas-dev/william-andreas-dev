@@ -52,9 +52,10 @@ I am the author of *AI Cybersecurity Projects in Python*, a beginner-friendly te
 * Threat visualization and AI summarization
 * SIEM-style log analysis
 
-Book on Amazon: https://www.amazon.ca/dp/B0FL6GLVSD
-Companion GitHub repository: https://github.com/AICyberProjects/ai-cybersecurity-projects-python
+Links:
 
+* [Book on Amazon](https://www.amazon.ca/dp/B0FL6GLVSD)
+* [Companion GitHub repository](https://github.com/AICyberProjects/ai-cybersecurity-projects-python)
 
 ## Patmos Intelligence
 
@@ -65,12 +66,9 @@ Core areas include structured workflow systems, business sale readiness tools, k
 ## Selected Work
 
 * Published technical book: *AI Cybersecurity Projects in Python*
-* Companion project repository: https://github.com/AICyberProjects
+* Companion project repository: [AICyberProjects](https://github.com/AICyberProjects)
 * Founder: Patmos Intelligence
-* Portfolio website: https://williamandreas.carrd.co
-* Additional portfolio projects and writing samples will be added here as this portfolio develops.
-
-## Contact
+* Portfolio website: [williamandreas.carrd.co](https://williamandreas.carrd.co)
 
 ## Contact
 
